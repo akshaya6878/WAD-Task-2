@@ -1,0 +1,221 @@
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin: 0;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.frame-heading {
+    background-image: url("https://png.pngtree.com/background/20211217/original/pngtree-health-care-light-blue-light-shadow-cross-abstract-background-picture-image_1590828.jpg");
+    background-size: cover;
+    margin: 0;
+}
+
+.home {
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.home-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.home-image {
+    margin-right: 10px;
+}
+.frame-home {
+    background: #a9dfff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+.login {
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-login {
+    background: #a9dfff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.login-container {
+    display: flex;
+    align-items: center;
+    height: 70vh; 
+}
+.loginimg {
+    margin-right: 20px; 
+}
+
+.registration {
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-registration {
+    background:#a9dfff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.reg-container {
+    display: flex;
+    align-items: center;
+    height: 70vh; 
+}
+.Regimg {
+    margin-right: 10px; 
+}
+
+.catalogue {
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-catalogue{
+    background: #a9dfff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.cat-container {
+    display: flex;
+    align-items: center;
+    height: 70vh; 
+}
+.catimg {
+    margin-right: 10px; 
+}
+.contact {
+    font-weight: bold;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-contact {
+    background: #a9dfff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.con-container {
+    display: flex;
+    align-items: center;
+    height: 70vh; 
+}
+.conimg {
+    margin-right: 10px; 
+}
+
+.frame-user{
+    background: #a9dfff;
+} 
+.frame-body {
+    background-image: url("https://t3.ftcdn.net/jpg/02/35/13/34/360_F_235133400_ZwaHUzKb3xCmR1DyQZQ5RE4uMJTeuHHK.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.frame-ho{
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-background-with-light-effects-picture-id524700656?k=6&m=524700656&s=612x612&w=0&h=ByXplCdM0NVtip8DOB5gFShy3MZCCUknBYYVGDgsUns="); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.frame-lo{
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-background-with-light-effects-picture-id524700656?k=6&m=524700656&s=612x612&w=0&h=ByXplCdM0NVtip8DOB5gFShy3MZCCUknBYYVGDgsUns="); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.frame-re{
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-background-with-light-effects-picture-id524700656?k=6&m=524700656&s=612x612&w=0&h=ByXplCdM0NVtip8DOB5gFShy3MZCCUknBYYVGDgsUns="); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.frame-ca{
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-background-with-light-effects-picture-id524700656?k=6&m=524700656&s=612x612&w=0&h=ByXplCdM0NVtip8DOB5gFShy3MZCCUknBYYVGDgsUns="); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.frame-co{
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-background-with-light-effects-picture-id524700656?k=6&m=524700656&s=612x612&w=0&h=ByXplCdM0NVtip8DOB5gFShy3MZCCUknBYYVGDgsUns="); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.book{
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-medical-elements-arrangement-with-copy-space_23-2148502906.jpg?size=626&ext=jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.search{
+    background-image: url("https://wallpaperaccess.com/full/4113093.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.medical{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/235/537/original/vector-blue-medical-healthcare-background-with-cardiograph.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+.consult{
+    background-image: url("https://image.freepik.com/free-photo/doctor-with-stethoscope-hand-hospital-background-medical-medicine-concept_34200-278.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+.profile{
+    background-image: url("https://wallpaperaccess.com/full/4112935.png"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+.payment{
+    background-image: url("https://st2.depositphotos.com/1000112/11646/v/450/depositphotos_116466288-stock-illustration-abstract-triangular-background.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
